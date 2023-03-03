@@ -43,8 +43,8 @@
     "sass-loader": "^7.1.0",
     "ts-loader": "^6.0.4",
     "typescript": "^3.5.2",
-    "vue": "^2.6.10",
-    "vue-template-compiler": "^2.6.10"
+    "vue": "^3.2.47",
+    "vue-template-compiler": "^2.7.14"
   },
   "scripts": {
     "dev": "npm run development",
